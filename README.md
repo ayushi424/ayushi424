@@ -35,9 +35,9 @@
 
 ### 📈 Stats:
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushi424&show_icons=true&locale=en&layout=compact" alt="ayushi424" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushi424&show_icons=true&locale=en" alt="ayushi424" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushi424&show_icons=true&locale=en&layout=compact" alt="ayushi424" /></p>
 
 ### 🏆 Trophies:
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushi424" alt="ayushi424" /></a> </p>
