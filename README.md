@@ -4,13 +4,9 @@
 <h3 align="center">Welcome to my Github Profile😀</h3>
 <img src="https://user-images.githubusercontent.com/68391974/126289518-a8422fd8-b728-4425-a231-b918c37aad8e.gif" align="right" width="450" height="425"/>
 
-
-🔭 I’m currently working on **Machine Learning & Data Science** projects.
-
-
 😎 I’m currently working as a Fellow @Script Fellowship Program.
 
-📈 I have worked as:
+🔭 I have worked as:
 
    - Contributor @DCP'21(DevIncept Contibution Program)
    - Open Source Contributor @LGM-SoC'21(Let's Grow More Summer of Code)
@@ -40,7 +36,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushi424&show_icons=true&locale=en" alt="ayushi424" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushi424&show_icons=true&locale=en&layout=compact" alt="ayushi424" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushi424)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🏆 Trophies:
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushi424" alt="ayushi424" /></a> </p>
