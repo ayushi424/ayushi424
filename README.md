@@ -8,12 +8,15 @@
 🔭 I’m currently working on **Machine Learning & Data Science** projects.
 
 
-😎 I’m currently working as a Contributor @LGM-SoC'21 & @DCP'21 .
+😎 I’m currently working as a Fellow @Script Fellowship Program.
 
 📈 I have worked as:
-   1. Data Science & Business Analytics Intern @The Sparks Foundation
-   2. Project Manager Intern @Intellify
-   3. Summer Intern @ MITS Gwalior
+
+   - Contributor @DCP'21(DevIncept Contibution Program)
+   - Open Source Contributor @LGM-SoC'21(Let's Grow More Summer of Code)
+   - Data Science & Business Analytics Intern @The Sparks Foundation
+   - Project Manager Intern @Intellify
+   - Summer Intern @ MITS Gwalior
 
 👀 I’m Keenly interested in fields of Machine Learning & Data Science.
 
