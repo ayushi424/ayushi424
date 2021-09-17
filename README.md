@@ -4,7 +4,7 @@
 <h3 align="center">Welcome to my Github Profile😀</h3>
 <img src="https://user-images.githubusercontent.com/68391974/126289518-a8422fd8-b728-4425-a231-b918c37aad8e.gif" align="right" width="450" height="425"/>
 
-😎 I’m currently working as a Fellow @Script Fellowship Program.
+😎 I’m currently working as a contributor @Girlscript Winter of Contributing & Fellow @Script Fellowship Program.
 
 🔭 I have worked as:
 
