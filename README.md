@@ -1,13 +1,15 @@
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Ayushi</h1>
-<h2 align="center">An Undergraduate Computer Science Engineering Student from India</h2>
+<h2 align="center">An Undergraduate Computer Science Engineering Student </h2>
 
 <h3 align="center">Welcome to my Github Profile😀</h3>
 <img src="https://user-images.githubusercontent.com/68391974/126289518-a8422fd8-b728-4425-a231-b918c37aad8e.gif" align="right" width="450" height="425"/>
 
-😎 I’m currently working as a contributor @Girlscript Winter of Contributing.
+😎 I'm currently working on projects based on Machine Learning, Data Science and more.
+
 
 🔭 I have worked as:
 
+   - Contributor @Girlscript Winter of Contributing
    - Contributor @DCP'21(DevIncept Contibution Program)
    - Open Source Contributor @LGM-SoC'21(Let's Grow More Summer of Code)
    - Data Science & Business Analytics Intern @The Sparks Foundation
@@ -16,7 +18,6 @@
 
 👀 I’m Keenly interested in fields of Machine Learning & Data Science.
 
-👯 I’m looking to collaborate on various Machine Learning and advanced projects!
 
 ### 🌐 You can reach me at: 
 
