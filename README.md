@@ -4,11 +4,12 @@
 <h3 align="center">Welcome to my Github Profile😀</h3>
 <img src="https://user-images.githubusercontent.com/68391974/126289518-a8422fd8-b728-4425-a231-b918c37aad8e.gif" align="right" width="450" height="425"/>
 
-😎 I'm currently working as **Mentee @OpenForce 2022** along with self-made projects based on Machine Learning, Data Science and more.
+😎 I'm currently working on self-made projects based on Machine Learning, Data Science and more.
 
 
 🔭 I have worked as:
 
+   - Mentee @OpenForce 2022
    - Contributor @Girlscript Winter of Contributing
    - Contributor @DCP'21(DevIncept Contibution Program)
    - Open Source Contributor @LGM-SoC'21(Let's Grow More Summer of Code)
