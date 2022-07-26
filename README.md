@@ -43,10 +43,10 @@
 ### 🏆 Trophies:
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushi424" alt="ayushi424" /></a> </p>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ayushi424&theme=ayu-light&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ayushi424&label=Profile%20views&color=0e75b6&style=flat" alt="ayushi424" /> </p>
-
+<p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=ayushi424&label=Profile%20views&color=0e75b6&style=flat" alt="ayushi424" /> </p>
 
 
 <!---
