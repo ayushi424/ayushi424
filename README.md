@@ -19,13 +19,14 @@
 
 👀 I’m Keenly interested in field of DATA!
 
-
+<!---
 ### 🌐 You can reach me at: 
 
 <p align="left">
-<a href="mailto:aayushishr24@gmail.com" target="_blank">
+<a href="mailto:" target="_blank">
 <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+--->
 
 
 ### 📈 Stats:
